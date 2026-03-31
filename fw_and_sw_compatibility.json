@@ -1,12 +1,14 @@
 {
   "compatibility": [
     {
-      "app_version": "2.12.0",
+      "app_min": "2.12.0",
+      "app_max": "2.13.0",
       "fw_min": "3.2.0",
       "fw_max": "3.2.0"
     },
     {
-      "app_version": "2.10.2",
+      "app_min": "2.0.0",
+      "app_max": "2.10.2",
       "fw_min": "2.2.0",
       "fw_max": "3.1.0"
     }
